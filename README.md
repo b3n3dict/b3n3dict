@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benedict Xavier/h1>
+<h1 align="center">Hi 👋, I'm Benedict Xavier</h1>
 <h3 align="center">FULL stack web developer</h3>
 	
 
