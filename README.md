@@ -9,12 +9,9 @@
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **benedict.xavier.e@gmail.com**
-  <div align="center">
- <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="100px"/>
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="100px"/>
-</div>
 
-	
+ <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="100px"/>
+
 ### 🛠 &nbsp;Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -46,8 +43,6 @@
 <a href="https://www.facebook.com/benedict.xavier.3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="_khushboo.goel" height="30" width="40" /></a>
 <!-- <a href="https://www.youtube.com/c/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a> -->
 </p>
-<br/>
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
