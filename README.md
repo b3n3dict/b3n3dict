@@ -51,7 +51,6 @@
 </a>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b3n3dict&theme=radical)](https://git.io/streak-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
