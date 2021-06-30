@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **benedict.xavier.e@gmail.com**
 
- <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="100px"/>
+ <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="200px"/>
 
 ### 🛠 &nbsp;Languages and Tools
 
