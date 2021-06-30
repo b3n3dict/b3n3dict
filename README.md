@@ -51,7 +51,7 @@
 <p>
 <a href="mailto:benedict.xavier.e@gmail.com"><img src="https://img.shields.io/badge/-benedict.xavier.e@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 	<p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_400px.gif" alt="khushboogoel01" height="40" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="khushboogoel01" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/benedict-xavier-177512141/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="khushboogoel01" height="40" width="40" /></a>
 <a href="https://www.instagram.com/ben_xav_/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="_khushboo.goel" height="40" width="40" /></a>
 <a href="https://www.facebook.com/benedict.xavier.3/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" alt="_khushboo.goel" height="40" width="40" /></a>
