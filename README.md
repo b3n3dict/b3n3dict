@@ -48,7 +48,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="left">
+<p>
 <a href="mailto:benedict.xavier.e@gmail.com"><img src="https://img.shields.io/badge/-benedict.xavier.e@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 <p align="right"> 
