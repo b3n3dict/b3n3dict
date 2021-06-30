@@ -48,9 +48,8 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p>
-<a href="mailto:benedict.xavier.e@gmail.com"><img src="https://img.shields.io/badge/-benedict.xavier.e@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+
+<a align="left" href="mailto:benedict.xavier.e@gmail.com"><img src="https://img.shields.io/badge/-benedict.xavier.e@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <p align="right"> 
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="khushboogoel01" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/benedict-xavier-177512141/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="khushboogoel01" height="40" width="40" /></a>
