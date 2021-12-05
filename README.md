@@ -2,7 +2,7 @@
 <h3 align="center">FULL stack web developer 💻</h3>
 	
 
-- 🌱 I’m currently learning **React Native, Next js, Typescript, Firebase,Starpi,Headless cms,Styled components etc.**
+- 🌱 I’m currently learning ** Next js,React Native, Typescript, Firebase,Starpi,Headless cms,Styled components etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/b3n3dict?tab=repositories)
 
