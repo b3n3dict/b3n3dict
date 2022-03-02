@@ -59,6 +59,6 @@
 <a href="https://www.linkedin.com/in/benedict-xavier-177512141/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="khushboogoel01" height="40" width="40" /></a>
 <a href="https://www.instagram.com/ben_xav_/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="_khushboo.goel" height="40" width="40" /></a>
 <a href="https://www.facebook.com/benedict.xavier.3/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" alt="_khushboo.goel" height="40" width="40" /></a>
-<!-- <a href="https://www.youtube.com/c/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a> -->
+<a href="https://www.youtube.com/c/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=b3n3dict'></p>		
