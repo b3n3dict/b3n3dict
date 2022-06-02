@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50px" height="50px" alt="hi"> 
-	![]([http://i.imgur.com/OUkLi.gif](https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif)) I'm Benedict Xavier</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50px" height="50px" alt="hi">  I'm Benedict Xavier</h1>
 <h3 align="center">FULL stack web developer 💻</h3>
 	
 
